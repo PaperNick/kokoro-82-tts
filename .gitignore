@@ -1,0 +1,12 @@
+# Python virtual env
+venv/
+
+# Allow python requirements
+!requirements.txt
+!requirements_lock.txt
+
+# Video/audio files
+*.wav
+*.mp3
+*.m4a
+*.webm
