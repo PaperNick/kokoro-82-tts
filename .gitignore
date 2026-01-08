@@ -5,6 +5,9 @@ venv/
 !requirements.txt
 !requirements_lock.txt
 
+# Text files
+*.txt
+
 # Video/audio files
 *.wav
 *.mp3
